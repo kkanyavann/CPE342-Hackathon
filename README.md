@@ -1,6 +1,6 @@
 # Player-Intelligence-System---CPE342-ML
 ML08-manchild
-
+```
 CPE342-Hackathon/
 ├── task1/
 │   ├── train.csv          # Training data with labels
@@ -21,6 +21,8 @@ CPE342-Hackathon/
 │   ├── test.csv           # Image metadata
 │   └── datacard.txt
 ├── task5/
+│   ├── task5.ipynb
 │   ├── test.csv           # Test data (unsupervised)
 │   └── datacard.txt
 └── sample_submission.csv  # Submission format template
+```
